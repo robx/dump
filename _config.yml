@@ -9,3 +9,5 @@ name: Dump
 
 # the description of the notes website
 description: This is my collection of random notes about tech things.
+
+exclude: [LICENSE, bin]
