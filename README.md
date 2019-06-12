@@ -10,10 +10,12 @@ This is my collection of random notes about tech things.
 - [nix](./nix)
 - [patch](./patch)
 - [postgres](./postgres)
+- [postgrest](./postgrest)
 
 ## Notes
 
 - *2019-06-08* [psql-error](./psql-error)
+- *2019-06-08* [postgrest](./postgrest)
 - *2019-06-08* [postgres-versions-nix](./postgres-versions-nix)
 - *2019-06-08* [git-send-email-comment](./git-send-email-comment)
 - *2019-06-08* [ghc-version-nix](./ghc-version-nix)
